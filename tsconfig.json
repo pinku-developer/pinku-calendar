@@ -22,5 +22,5 @@
   },
   "include": [
     "src"
-  ]
+, "calendar.test.tsx"  ]
 }
